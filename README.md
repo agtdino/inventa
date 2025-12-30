@@ -91,4 +91,13 @@ CREATE TABLE `unidades_organizativas` (
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*M!100616 SET NOTE_VERBOSITY=@OLD_NOTE_VERBOSITY */;
 </pre>
+<h2>Screen capture</h2>
+<h3>Tables of database Inventa</h3>
+<img width="720" height="156" alt="imagen" src="https://github.com/user-attachments/assets/1df75227-f4da-48f2-9647-5fab5413704b" />
+<h3>Hostname list</h3>
+<img width="720" height="841" alt="imagen" src="https://github.com/user-attachments/assets/81f2c254-0309-478a-bd05-7c5d7f52368f" />
+<h3>UO Unit Organizative</h3>
+<img width="720" height="291" alt="imagen" src="https://github.com/user-attachments/assets/0961eaf5-628b-4dc9-871b-882968e29e89" />
+
+
 
