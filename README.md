@@ -1,11 +1,11 @@
 # inventa
 <h1> Inventario de equipos en red (frontend php crud + mysql) </h1>
 <h2> Requisites </h2>
-* mysql server (mariadb)
-* apache2
-* php
-* nmap
-* sudo 
+<li>mysql server (mariadb)</li>
+<li>apache2</li>
+<li>php</li>
+<li>nmap</li>
+<li>sudo</li>
 <h2> VirtualHost configuration </h2>
 .htaccess into inventa directory
 
